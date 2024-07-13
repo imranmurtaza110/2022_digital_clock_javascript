@@ -1,0 +1,12 @@
+.jumbotron {
+  background-color: rgba(160, 176, 201, 0.315);
+  width: 50vw;
+  margin: auto;
+  border-radius: 5%;
+  padding: 15px;
+}
+
+.btn .btn-primary .btn-lg {
+  background-color: red;
+  color: red;
+}
